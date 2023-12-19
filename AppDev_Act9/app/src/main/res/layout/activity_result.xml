@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tylegoatbg4"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/gifView"
+        android:layout_width="200dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        app:srcCompat="@drawable/tyler" />
+
+    <TextView
+        android:id="@+id/congratsView"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="CONGRATULATIONS!"
+        android:textColor="@color/black"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/yourScoreView"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:text="YOUR SCORE IS:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtview_id_result"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center|center_horizontal"
+        android:text="0"
+        android:textColor="#000000"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_id_play"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#B0926A"
+        android:text="PLAY AGAIN?"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btn_id_exit"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#B0926A"
+        android:text="EXIT"
+        android:textColor="@color/black" />
+</LinearLayout>

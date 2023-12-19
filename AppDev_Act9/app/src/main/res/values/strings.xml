@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mathtechnique App</string>
+
+    <string name="btn_add">ADDITTION</string>
+    <string name="btn_subs">SUBSTRACTION</string>
+    <string name="btn_multiplication">MULTIPLICATION</string>
+
+    <string name="txt_score">Score</string>
+    <string name="txt_score_num">0</string>
+    <string name="txt_life">Life</string>
+    <string name="txt_life_num">3</string>
+    <string name="txt_time">Time</string>
+    <string name="txt_time_num">60</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_question">Next Question</string>
+    <string name="plain_answer">Enter your answer</string>
+
+
+    <string name="txt_congrats">CONGRATULATIONS PLAYER!</string>
+    <string name="txt_player_score">YOUR SCORE IN TOTAL ARE: </string>
+    <string name="btn_again">PLAY AGAIN?</string>
+    <string name="btn_exit">EXIT</string>
+
+</resources>

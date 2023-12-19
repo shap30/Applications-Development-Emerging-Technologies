@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">AppDev_Lab4_Buttons</string>
+
+    <string name="app_txt1">USER INTERACTION</string>
+    <string name="app_txt2">TOAST MESSAGE</string>
+
+    <string name="app_btn1">RED</string>
+    <string name="app_btn2">YELLOW</string>
+    <string name="app_btn3">GREEN</string>
+
+    <string name="app_txt3">SNACKBAR MESSAGE</string>
+    <string name="app_txt4">WHO IS THE LEADER OR THE DICTATOR OF NAZI GERMANY FROM 1933 TO 1945?</string>
+
+    <string name="app_btn4">BABY ADOLF</string>
+    <string name="app_btn5">ALBERT ESTITEK</string>
+    <string name="app_btn6">ADOLF HITLER</string>
+
+    <string name="app_btn7">SHEESH</string>
+
+
+</resources>

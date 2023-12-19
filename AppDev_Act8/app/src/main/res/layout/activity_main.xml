@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@android:color/white"
+    tools:context=".MainActivity">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="16dp" />
+
+    <EditText
+        android:id="@+id/searchBox"
+        style="@style/EditTextStyle"
+        android:hint="SEARCH: "
+        android:minHeight="48dp"
+        android:textColorHint="@color/black" />
+
+    <EditText
+        android:id="@+id/prodName"
+        style="@style/EditTextStyle"
+        android:layout_marginTop="8dp"
+        android:hint="PRODUCT NAME: "
+        android:minHeight="48dp"
+        android:textColorHint="@color/black" />
+
+    <EditText
+        android:id="@+id/priceInp"
+        style="@style/EditTextStyle"
+        android:layout_marginTop="8dp"
+        android:hint="PRICE: "
+        android:minHeight="48dp"
+        android:textColorHint="@color/black" />
+
+    <Button
+        android:id="@+id/saveBtn"
+        style="@style/ButtonStyle"
+        android:layout_marginTop="16dp"
+        android:text="Save"
+        android:textColorHint="@color/black" />
+
+    <ListView
+        android:id="@+id/listView"
+        style="@style/ListViewStyle"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:cacheColorHint="@color/black" />
+
+</LinearLayout>

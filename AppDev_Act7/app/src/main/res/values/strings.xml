@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AppDev_Act7_BmiCalculator</string>
+
+    <string name="Title">BMI CALCULATOR</string>
+    <string name="LastName">LAST NAME:</string>
+    <string name="MI">MIDDLE INITIAL:</string>
+    <string name="FirstName">FIRST NAME:</string>
+
+    <string name="Male">MALE:</string>
+    <string name="Female">FEMALE:</string>
+
+    <string name="CM">Height (CM):</string>
+    <string name="KG">Weight (KG):</string>
+
+    <string name="Compute">COMPUTE BMI</string>
+    <string name="YourBmiResult">BMI RESULT:</string>
+
+    <string name="Underweight">UNDERWEIGHT</string>
+    <string name="HealtyWeight">HEALTHY WEIGHT</string>
+    <string name="Overweight">OVER WEIGHT</string>
+    <string name="Obese">OBESE</string>
+
+
+    <string name="UnderweightText">LESS THAN 18.5</string>
+    <string name="HealtyWeightText">GREATER THAN OR EQUAL TO 18.5 AND LESS THAN 25</string>
+    <string name="OverweightText">GREATER THAN OR EQUAL TO 25 AND LESS THAN 30</string>
+    <string name="ObeseText">GREATER THAN OR EQUAL TO 30</string>
+
+    <string name="back">BACK</string>
+
+
+</resources>

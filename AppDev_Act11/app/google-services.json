@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "909322758825",
+    "firebase_url": "https://best-artist-of-the-year-default-rtdb.firebaseio.com",
+    "project_id": "best-artist-of-the-year",
+    "storage_bucket": "best-artist-of-the-year.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909322758825:android:6d54c0b4eaf55af4ec17b8",
+        "android_client_info": {
+          "package_name": "com.example.appdev_act11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPNLz7l0jd8OXhJRdDWE2rvNsTlaqxEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

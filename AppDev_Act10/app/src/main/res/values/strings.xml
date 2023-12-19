@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">AppDev_Act10</string>
+
+    <string name="app_nameproduct">NAME OF PRODUCT:</string>
+    <string name="app_nameprice">PRICE OF PRODUCT:</string>
+
+    <string name="app_btn1">ADD</string>
+    <string name="app_btn2">VIEW ALL PRODUCTS</string>
+
+    <string name="app_btn3">EDIT</string>
+    <string name="app_btn4">DELETE</string>
+
+    <string name="app_btn5">FOOD</string>
+    <string name="app_btn6">DRINKS</string>
+    <string name="app_btn7">OTHER</string>
+
+    <string name="app_btn8">VIEW ALL FOODS</string>
+    <string name="app_btn9">VIEW ALL DRINKS</string>
+    <string name="app_btn10">VIEW ALL OTHER</string>
+
+
+    <string name="app_namerecordid">RECORD ID #</string>
+
+</resources>
