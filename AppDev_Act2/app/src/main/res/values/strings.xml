@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">AppDev_Txt_EdtTxt_Btn</string>
+
+    <string name="app_EdtText1">TEXTVIEW, EDITTEXT AND BUTTON</string>
+
+    <string name="app_EdtP1">Lastname</string>
+    <string name="app_EdtP2">Firstname</string>
+    <string name="app_EdtP3">Middle Initial</string>
+
+    <string name="app_Btn1">SEND</string>
+
+    <string name="app_Txt1">LN</string>
+    <string name="app_Txt2">FN</string>
+    <string name="app_Txt3">M.I</string>
+
+    <string name="app_Btn2">RED</string>
+    <string name="app_Btn3">GREEN</string>
+    <string name="app_Btn4">YELLOW</string>
+
+    <string name="app_Btn5">SIZE 34</string>
+    <string name="app_Btn6">SIZE 24</string>
+    <string name="app_Btn7">SIZE 20</string>
+
+    <string name="app_Btn8">1</string>
+    <string name="app_Btn9">2</string>
+    <string name="app_Btn10">3</string>
+</resources>
