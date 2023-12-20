@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">AppDev_Lab3_Components</string>
+
+    <string name="app_motorname">MOTORTECH</string>
+
+    <string name="app_make">MAKE:</string>
+    <string name="app_model">MODEL:</string>
+    <string name="app_reg_date">REG.DATE:</string>
+    <string name="app_transmission">TRANSMISSION:</string>
+
+    <string name="app_M1">KYMCO DT X360</string>
+    <string name="app_M2">YAMAHA YZF-R3</string>
+    <string name="app_M3">YAMAHA XMAX</string>
+    <string name="app_M4">KAWASAKI NINJA 1000XS</string>
+    <string name="app_M5">KAWASAKI Z H2</string>
+    <string name="app_M6">YAMAHA YZF-R1M</string>
+    <string name="app_M7">HONDA AFRICA</string>
+    <string name="app_M8">HONDA CBR</string>
+
+    <string name="app_TH1">THEME 1</string>
+    <string name="app_TH2">THEME 2</string>
+    <string name="app_TH3">THEME 3</string>
+</resources>
